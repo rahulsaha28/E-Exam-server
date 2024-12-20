@@ -1,6 +1,6 @@
 In a production-like structure for a CRUD API using **Express.js**, you want to have a well-organized, maintainable, and scalable architecture. This often involves breaking down your application into different layers or components, such as routes, controllers, models, and services. Additionally, you would need to use environment variables, logging, validation, and error handling for production readiness.
 
-### Enter system
+### Entering system
 
 1. first enter the `server` folder
 2. then run `yarn install`
