@@ -4,6 +4,9 @@
   "main": "app.js",
   "type": "module",
   "license": "MIT",
+  "engines": {
+    "node": "v22.11.0"
+  },
   "scripts": {
     "dev": "nodemon app.js",
     "test": "nodemon test.js",
